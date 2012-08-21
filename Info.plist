@@ -4,6 +4,8 @@
 <dict>
 	<key>Author</key>
 	<string>Matt Sephton</string>
+	<key>Builder Version</key>
+	<string>8536.25</string>
 	<key>CFBundleDisplayName</key>
 	<string>Flickr Links</string>
 	<key>CFBundleIdentifier</key>
@@ -11,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.11</string>
+	<string>1.12</string>
 	<key>CFBundleVersion</key>
-	<string>1.11</string>
+	<string>1.12</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>

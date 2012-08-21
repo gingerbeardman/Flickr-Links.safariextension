@@ -67,8 +67,7 @@ function insertAfter(referenceNode, newNode)
 var divs = document.getElementsByClassName('photo-div');
 var pdiv = divs[0];
 var imgs = pdiv.getElementsByTagName('img');
-var image_uri = imgs[0].src;
-
+var image_uri = imgs[1].src;
 var short_uri = document.getElementById('shorturl') ? document.getElementById('shorturl').href : null;
 	
 header = $C({
